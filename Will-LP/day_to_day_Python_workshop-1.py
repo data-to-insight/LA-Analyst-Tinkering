@@ -11,7 +11,7 @@ If the option to run code doesnt appear, you may need to open the command palett
 and select rebuild container.'''
 
 
-# %%
+
 #  Packages for reading data from url download links and extracting data from them 
 #  if they're zip files.
 import requests 
@@ -80,4 +80,4 @@ fig.set_ylabel('Referrals')
 #  Shows the plot
 plt.show()
 
-# %%
+
